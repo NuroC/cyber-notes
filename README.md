@@ -11,8 +11,7 @@ You can find all the notes here: https://nuroc.github.io/cybersecurity-informati
 - Notes on different cybersecurity concepts and technologies
 - Summaries of articles and papers I've read
 - Any resources or tools I've found useful in my learning journey
-- I hope you find these notes helpful! If you have any suggestions or feedback, feel free to reach out or submit a pull request. Thanks for stopping by!
 - CtFs (Capture The Flag)
 - Cyber patriot image logs
 
-If you have any suggestions or feedback, feel free to reach out or submit a pull request. Thanks for stopping by!
+If you have any suggestions or feedback, feel free to reach out or submit a pull request.
