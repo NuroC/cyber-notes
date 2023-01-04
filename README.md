@@ -6,6 +6,8 @@ Here you'll find all my notes and summaries on various cybersecurity topics. I'v
 
 What you can expect to find here:
 
+You can find all the notes here: https://nuroc.github.io/cybersecurity-information/
+
 - Notes on different cybersecurity concepts and technologies
 - Summaries of articles and papers I've read
 - Any resources or tools I've found useful in my learning journey
