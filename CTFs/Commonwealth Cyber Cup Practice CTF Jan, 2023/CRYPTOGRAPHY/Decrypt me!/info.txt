@@ -1,0 +1,1 @@
+The encryption key is the last name of the person that developed the software used to encrypt the file.
