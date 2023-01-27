@@ -1,0 +1,1 @@
+One way to solve this challenge is using a command-line tool called binwalk, easily installed on both Linux and MacOS operating systems.

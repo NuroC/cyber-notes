@@ -1,0 +1,5 @@
+A riddle*, wrapped in a mystery**, inside an enigma***.
+
+* flag
+** program
+*** encoding
