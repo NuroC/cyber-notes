@@ -1,0 +1,6 @@
+This aspect of the CIA Triad refers to protecting information from disclosure to unauthorized parties.
+
+A. Confidentiality
+B. Integrity
+C. Insurmountabillity
+D. Availability
