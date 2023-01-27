@@ -1,0 +1,1 @@
+After logging in to an FTP server, Eve downloaded a file. The flag is the contents of the file.
