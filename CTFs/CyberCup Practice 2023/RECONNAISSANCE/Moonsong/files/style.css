@@ -1,3 +1,4 @@
+
 html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
 body{line-height:1;font-family:arial}
 h1{font-size:25px}
@@ -29,7 +30,7 @@ footer{background:#344;max-width:1000px;margin:0 -20px;clear:both;text-align:rig
 footer p{padding:20px;color:#FFF}
 address{padding:10px 20px 30px 10px}
 aside > div{margin:10px auto;background:#344;min-height:150px;padding:30px 10px;text-align:center;color:#FFF}
-a#logo{vertical-align:middle;font-size:40px;color:#344;font-weight:bold;display:block;text-decoration:none;text-align:center;line-height:40px;padding:60px 5px}
+a#logo{font-size:40px;color:#344;font-weight:bold;display:block;text-decoration:none;text-align:center;line-height:40px;padding:60px 5px}
 body > section{max-width:1000px;margin:auto;padding:30px 0px;border-bottom:1px solid #999;color:#333}
 #sidebarBackTop{background:#286983;color:#FFF;opacity:0.8;cursor:pointer;display:block;padding:5px}
 #sidebar a.back2Top{text-decoration:none;text-align:center;background:#344;color:#FFF;font-weight:bold;padding:5px;display:block}
@@ -46,7 +47,7 @@ footer a{color:#FFF}
 #sidebar{float:left;position:absolute}
 #page{padding:20px}
 #menuToggle,#mobileMenuToggle{background:#FFF;cursor:pointer;display:inline-block;font-size:40px;width:40px;font-weight:bold;text-align:center;height:40px;line-height:40px;color:#344;border-radius:10px}
-#footerbar{style:ZmxhZ3t5MHIzX3N0eWwxbl87LSl9}
+#footerbar{text-align:ZmxhZ3t5MHIzX3N0eWwxbl87LSl9}
 #mobileMenuToggle,#mobileLogo{vertical-align:middle;display:none;font-size:30px}
 #menuToggle:hover{color:#FFF;background:#344}
 .socialButtons{float:right;padding-top:8px}
