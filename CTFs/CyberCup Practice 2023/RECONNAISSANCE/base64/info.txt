@@ -1,0 +1,3 @@
+Convert this encoded message to ASCII
+
+VGhlIGZsYWcgaXMgYTkwZWVkOWRkODJjMmVlMTk1ZDEKCg==
