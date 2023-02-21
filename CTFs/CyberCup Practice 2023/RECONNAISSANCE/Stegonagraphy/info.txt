@@ -1,1 +1,0 @@
-Stegonography is the practice of hiding data in seemingly innocent-looking files. It is often most difficult just knowing when a file has hidden data in it. The attached PDF has hidden data - can you find it?

@@ -1,3 +1,0 @@
-Lots of ways to solve this one - one way is using a classic buffer overflow. Can you get the 'accessGranted' function to execute?
-
-The flag is the last name of the author quoted.

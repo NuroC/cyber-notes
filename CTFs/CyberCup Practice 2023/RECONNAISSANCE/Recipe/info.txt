@@ -1,3 +1,0 @@
-Dug deleted an important file! Find it before it's too late.
-
-The flag is the filename (before it was deleted, of course).

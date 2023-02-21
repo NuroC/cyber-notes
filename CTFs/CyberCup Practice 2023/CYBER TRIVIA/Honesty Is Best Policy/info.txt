@@ -1,6 +1,0 @@
-This aspect of the CIA triad is about ensuring that information is not altered accidentally or by entities unauthorized to make alterations.
-
-A. Confidentiality
-B. Integrity
-C. Availability
-D. Cryptography

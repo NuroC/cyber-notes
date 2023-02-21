@@ -1,5 +1,0 @@
-In the attached packet capture file, what is the Ethernet (or MAC) address of the computer using IP address 192.168.28.248?
-
-Free hint 1: The Ethernet address is a sequence of hexadecimal values in the form aa:aa:aa:aa:aa:aa.
-
-Free hint 2: Use Wireshark for this. It is available for download at https://www.wireshark.org/#download. If you have a Virginia Cyber Range exercise area account, you can use Wireshark on your Kali Linux virtual machine.
